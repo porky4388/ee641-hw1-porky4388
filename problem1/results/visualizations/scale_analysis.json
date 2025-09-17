@@ -1,0 +1,12 @@
+{
+  "object_size_bins": {
+    "small": 206,
+    "medium": 239,
+    "large": 218
+  },
+  "scale_assignments": {
+    "1": 206,
+    "2": 239,
+    "3": 218
+  }
+}
